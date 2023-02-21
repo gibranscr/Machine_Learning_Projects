@@ -1,4 +1,4 @@
-#Welcome to the Machine Learning Projects Repository
+# Welcome to the Machine Learning Projects Repository
 
 You will be able to see some of the dashboards that I have created. You will check how the data and images were integrated to get a more visual dashboard. Most of the projects included a machine learning ETL process that was developed in python to make the data visualization more efficient.
 
